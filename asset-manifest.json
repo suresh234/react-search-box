@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-search-box/static/css/main.c97b9c76.chunk.css",
-  "main.js": "/react-search-box/static/js/main.131b511e.chunk.js",
-  "main.js.map": "/react-search-box/static/js/main.131b511e.chunk.js.map",
+  "main.css": "/react-search-box/static/css/main.298b563a.chunk.css",
+  "main.js": "/react-search-box/static/js/main.3b81f935.chunk.js",
+  "main.js.map": "/react-search-box/static/js/main.3b81f935.chunk.js.map",
   "runtime~main.js": "/react-search-box/static/js/runtime~main.a051fd63.js",
   "runtime~main.js.map": "/react-search-box/static/js/runtime~main.a051fd63.js.map",
-  "static/js/2.52b26e4e.chunk.js": "/react-search-box/static/js/2.52b26e4e.chunk.js",
-  "static/js/2.52b26e4e.chunk.js.map": "/react-search-box/static/js/2.52b26e4e.chunk.js.map",
+  "static/js/2.b811eb01.chunk.js": "/react-search-box/static/js/2.b811eb01.chunk.js",
+  "static/js/2.b811eb01.chunk.js.map": "/react-search-box/static/js/2.b811eb01.chunk.js.map",
   "index.html": "/react-search-box/index.html",
-  "precache-manifest.f5ca0945ed32528fb872016306a4e3b8.js": "/react-search-box/precache-manifest.f5ca0945ed32528fb872016306a4e3b8.js",
+  "precache-manifest.aef8535b07006f9de9318e70b85940e3.js": "/react-search-box/precache-manifest.aef8535b07006f9de9318e70b85940e3.js",
   "service-worker.js": "/react-search-box/service-worker.js",
-  "static/css/main.c97b9c76.chunk.css.map": "/react-search-box/static/css/main.c97b9c76.chunk.css.map"
+  "static/css/main.298b563a.chunk.css.map": "/react-search-box/static/css/main.298b563a.chunk.css.map"
 }
