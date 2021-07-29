@@ -68,8 +68,6 @@ export default class ReactSearchBox extends Component {
     placeholder: '',
     inputBoxFontColor: '#000',
     inputBoxBorderColor: '#cacaca96',
-    inputBoxFontSize: '14px',
-    inputBoxHeight: '40px',
     dropDownHoverColor: '#ccc',
     dropDownBorderColor: '#cacaca96',
     clearOnSelect: false,
